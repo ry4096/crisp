@@ -1,0 +1,7 @@
+This checks if the struct alignment algorithm is compatible with
+that of the c compiler.
+
+The outputs of struct_test and struct_test_main.cr should match.
+
+At the time of this commit, the struct packing algorithm disagrees with gcc
+for struct B. The behavior can deviate when bit fields are used.
