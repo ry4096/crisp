@@ -16,6 +16,3 @@ The benchmarks I've done so far have it about the same speed as the Lua interpre
 Crisp is beta and I'm still expanding the standard library. A reference for the language is also needed.
 
 Licence: MIT
-
-Contact: ry4096@gmail.com
-
